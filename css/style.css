@@ -1,0 +1,117 @@
+
+a{
+    font-family:sans-serif;
+}
+
+.titleForm{
+   font-size: 25px;
+   font-family: Verdana;
+
+}
+
+.inicio{
+    color: #333;
+    font-size: 35px;
+    line-height: 1.3em;
+    font-weight: 300;
+}
+.navbar-nav {
+    float: left;
+    margin: 0;
+    left: 50%;
+    transform: translatex(-50%);
+    position: relative;
+    padding-right: 240px;
+
+    }
+
+.nav-item:hover{
+    color: #ec0000!important; /* CONSULTAR XQ NO ANDA*/
+}
+
+.borde_error{
+    border: 3px solid #ec0000;
+}
+.texto_error{
+    color:#ec0000; 
+}
+
+.borde_ok{
+    border: 3px solid green;
+}
+.texto_ok{
+  color: green;
+    
+}
+
+
+.bg{
+    background: url("../img/TransferWise_Isometric.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+.btn{
+    background-color: #ec0000;
+}
+
+
+.footer{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    background-color:white;
+    padding-top: 15px;
+    color: #979797;
+}
+.row{
+    flex-wrap: nowrap;
+}
+
+.linea {
+    border-top: 1px solid #eee;
+    color: #979797;
+  }
+  
+  .centrado{
+      text-align: center;
+  }
+
+  .btn-primary{
+    background-color: #ec0000!important;
+    color: #fff!important;
+    position: relative;
+    width: 20%!important;
+    top: 10px;
+    font-size: 16px;
+    line-height: 1.14;
+    font-weight: normal;
+    border: 1px solid #ec0000 !important;
+
+  }
+
+  .btn-primary:hover{
+    background-color: #fff!important;
+    color:#ec0000!important;
+  }
+
+ 
+  .botonInicio:hover{
+    background-color: #fff!important;
+    color:#ec0000!important;
+    font-size: 20px;
+    border: solid 1px #ec0000;
+    
+    
+  }
+  .botonInicio{
+    background-color: #ec0000!important;
+    color: #fff!important;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 50px;
+    padding: 5px 0px 5px 0;
+   
+  }
