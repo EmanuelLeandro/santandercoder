@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nombre": "12 Empanadas y una Pizza en morita",
+        "imagen": "pizza.jpg",
+        "puntos": "860"
+    },
+    {
+        "id": 2,
+        "nombre": "1k de Helado en Chuii para este verano",
+        "imagen": "chuii.jpg",
+        "puntos": "840"
+    },
+    {
+        "id": 3,
+        "nombre": "1k de Helado en Pablo Helados",
+        "imagen": "pablohelados.jpg",
+        "puntos": "840"
+    },
+    {
+        "id": 4,
+        "nombre": "1 Combo Mega Cuarto Deluxe",
+        "imagen": "mc.jpg",
+        "puntos": "1000"
+    }
+]
